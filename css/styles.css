@@ -1,2 +1,24 @@
+/*Color Palette
+Primary Color(Golden Yellow): F5C22D
+Secondary Color(Hotrod Red): C01317
+Other Color(Royal-ish Blue): 137CC0
+Other Color(Off White): F6ECE1
+Other Color(Orangey Yellow): F39C2B
+*/
+
 /*Body*/
+
+body {
+    background-color: #137CC0;
+}
+
+h1, h2{
+    color: #F5C22D
+}
+
+h1{
+
+   
+    
+}
 /*Links*/
